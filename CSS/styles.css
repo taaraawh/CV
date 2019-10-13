@@ -1,0 +1,31 @@
+/**********************ELEMENT SELECTORS***********************/
+body {
+  background-color: #eaf6f6;
+  font-family: Helvetica;
+}
+
+hr {
+border-color: grey;
+border-style: none;
+border-top-style: dotted;
+border-width: 5px;
+width: 5%;
+}
+
+h1{
+font-family: Helvetica;
+color: #66bfbf;
+text-shadow: 2px 2px 2px #52616b;
+text-transform: capitalize;
+letter-spacing: 1px;
+}
+
+h3{
+  color: #66bfbf;
+  text-align: center;
+  letter-spacing: 3px;
+}
+
+/****************************CLASS SELECTORS**************************/
+
+/************************ID SELECTORS*************************/
